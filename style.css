@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+h1{
+  color: rgb(218, 10, 107);
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 40px;
+  font-style: italic;
+}
